@@ -1,0 +1,12 @@
+.container {
+  text-align: center;
+}
+
+button:not(:last-child) {
+  margin-right: 5px;
+}
+
+.user-select {
+  width: 120px;
+  margin: 20px auto;
+}
